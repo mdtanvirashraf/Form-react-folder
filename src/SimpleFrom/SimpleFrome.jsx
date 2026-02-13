@@ -9,6 +9,7 @@ const SimpleFrome = () => {
 
     return (
         <div>
+            <h1>SimpleFrome</h1>
             <form onSubmit={handelSubmit}>
                 <input type="text" name='name' placeholder='Enter Your Name' />
                <input type="email" name="email" id="" placeholder='E-mail' />

@@ -8,6 +8,7 @@ const FromAcrose = () => {
     return (
        
         <div>
+            <h1>FromAcrose</h1>
             <form action={handelclickFrom}>
                 <input type="text" name='name' placeholder='Enter Your Name'/>
                 <br />

@@ -1,0 +1,10 @@
+.family div{
+    border: 10px solid blue;
+    background-color: rgb(22, 196, 13);
+    padding: 20px;
+    border-radius: 15px;
+    margin: 15px;
+}
+.flex{
+    display: flex;
+}
